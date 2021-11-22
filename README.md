@@ -1,13 +1,6 @@
 # Medical-X-ray-Image-Classification-using-Convolutional-Neural-Network
 Construction of CNN model for detection of pneumonia in x-rays from scratch
 
-## License
-[MIT LICENSE](https://github.com/smarthardik10/Medical-X-ray-Image-Classification-using-Convolutional-Neural-Network/blob/main/MIT%20License)
-
-
-
-<img src="https://banner2.cleanpng.com/20180413/vpq/kisspng-massachusetts-institute-of-technology-mit-license-open-5ad048323f4950.3152506915235994102592.jpg" width="50" height="50">
-
 
 ## Links
 
